@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidWorksAddIn", "SolidWorksAddIn\SolidWorksAddIn.csproj", "{1EFD6A87-076A-4F8C-8222-C7204F256F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFD6A87-076A-4F8C-8222-C7204F256F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFD6A87-076A-4F8C-8222-C7204F256F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFD6A87-076A-4F8C-8222-C7204F256F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFD6A87-076A-4F8C-8222-C7204F256F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B4231B-2CAD-49A0-AE18-2405A7702529}
+	EndGlobalSection
+EndGlobal
